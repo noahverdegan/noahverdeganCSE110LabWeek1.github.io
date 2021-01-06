@@ -17,6 +17,12 @@ while(false){
 }
 ```
 
+### Order in which I did this assignment
+1. Make repository on github
+2. Clone, branch, and edit using command line
+3. Branch and edit using VS Code
+4. Edit on github to add required markdown elements
+
 
 ### Here is a picture of my dog with a mask photoshopped on.
 
