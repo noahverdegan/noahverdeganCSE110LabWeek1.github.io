@@ -40,9 +40,16 @@ As she once so eloquently said:
   - Filled with more chihuahua rage than should be able to fit in her tiny body!
 - Makes being stuck at home not entirely depressing
 
+###
+
 ### To do list:
 - [x] Take screenshot of command line
 - [x] Take screenshot of VS Code
 - [x] Include my dog
 - [ ] Make a page that is actually useful
+
+
+
+
+[Return to dog](https://noahverdegan.github.io/noahverdeganCSE110LabWeek1.github.io/#here-is-a-picture-of-my-dog-with-a-mask-photoshopped-on)
 
