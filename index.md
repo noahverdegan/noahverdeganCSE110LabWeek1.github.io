@@ -40,7 +40,11 @@ As she once so eloquently said:
   - Filled with more chihuahua rage than should be able to fit in her tiny body!
 - Makes being stuck at home not entirely depressing
 
-###
+### Helpful Table
+| Column Title | Another Column | How Exciting More Column|
+| --- | --- | --- |
+| Oh my first item | This in second Column | wowza 3rd column |
+| Another exciting row | taBlE | final item |
 
 ### To do list:
 - [x] Take screenshot of command line
