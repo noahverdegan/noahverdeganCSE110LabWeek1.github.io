@@ -3,7 +3,7 @@
 
 [Here](http://cseweb.ucsd.edu/~dakane/CSE101/) is a link to the class webpage.
 
-And [here](README.md)
+And [here](README.md) is my README file.
 
 Regular text here
 
