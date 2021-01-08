@@ -3,6 +3,8 @@
 
 [Here](http://cseweb.ucsd.edu/~dakane/CSE101/) is a link to the class webpage.
 
+And [here](README.md)
+
 Regular text here
 
 **Wow some happy bold text**
