@@ -29,7 +29,6 @@ while(false){
 ### Here is a picture of my dog with a mask photoshopped on.
 
 <img src="gigimask.jpg" width="200"/>
-<img src="https://static.wikia.nocookie.net/bigidea/images/e/ef/Imgarchie005.jpg/revision/latest?cb=20170331184617" width="200"/>
 
 As she once so eloquently said:
 
